@@ -5,10 +5,10 @@ A lightsaber sound event JavaScript plugin for mobile web browsers using device 
 
 #使用方法：#
 
-1.将音效开到最大
+1.将手机音效开到最大
 
 
-2.使用手机浏览器打开index.html，然后挥动手机，会发出光剑的嗡嗡声效
+2.使用手机浏览器打开index.html，然后短时间挥动手机，会发出光剑的嗡嗡声效
 
 
 3.根据移动的距离会发出不同的声效
